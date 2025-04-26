@@ -1,3 +1,3 @@
 function sayHello() {
-  alert("Hello from JavaScript!");
+  alert("Hello we are using JavaScript!");
 }
