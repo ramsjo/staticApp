@@ -1,3 +1,3 @@
 function sayHello() {
-  alert("Hello we are using JavaScript!");
+  alert("Hello this is a static app by Bhupesh");
 }
